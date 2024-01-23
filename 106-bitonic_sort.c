@@ -64,7 +64,7 @@ void merge_sequence(int *array, size_t low, size_t high, int dir, size_t size)
 }
 
 /**
- * make_sequence - func that make bitonic sequence
+ * make_sequence - function that makes bitonic sequence.
  * @array: the given array
  * @low: the lower boundary
  * @high: the high boundary
