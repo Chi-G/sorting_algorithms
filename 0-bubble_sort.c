@@ -7,7 +7,7 @@
  * @first: the first index
  * @second: the second index
  */
-void swap_pos(int **array, size_t first, sizte_t second)
+void swap_pos(int **array, size_t first, size_t second)
 {
 	int holder;
 
